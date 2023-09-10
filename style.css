@@ -1,0 +1,25 @@
+body {
+    font: 'Barlow', sans-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5rem;
+    background: linear-gradient(to right, #F2c0f0, #98e2fb);
+}
+
+h1 {
+    font: 600 3.5em 'Barlow', sans-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5rem;
+    width: 100%;
+}
+
+h2 {
+    font: 900 1em 'Barlow', sans-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
